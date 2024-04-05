@@ -18,4 +18,4 @@ Here is the list of subjects of REPs:
 | [REP-0010](REP-0010/REP-0010.md) | Introducing Rotating Validators                            | Standard   | Approved  |
 | [REP-0011](REP-0011/REP-0011.md) | Ronin Buyback and Burn Proposal                            | Standard   | Stagnant  |
 | [REP-0012](REP-0012/REP-0012.md) | Early exit in maintenance mode                             | Standard   | Approved  |
-
+| [REP-0013](REP-0013/REP-0013.md) | Propose Berlin EIPs on Ronin                               | Standard   | Draft     |
