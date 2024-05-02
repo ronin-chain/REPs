@@ -20,4 +20,4 @@ Here is the list of subjects of REPs:
 | [REP-0012](REP-0012/REP-0012.md) | Early exit in maintenance mode                          | Standard | Executed |
 | [REP-0013](REP-0013/REP-0013.md) | Propose Berlin EIPs on Ronin                            | Standard | Approved |
 | [REP-0014](REP-0014/REP-0014.md) | Propose London EIPs on Ronin                            | Standard | Draft    |
-| [REP-0015](REP-0015/REP-0015.md) | Ownership Delegation and Context for Non-Fungible Token | Standard | Draft    |
+| [REP-0015](REP-0015/REP-0015.md) | Ownership Delegation and Context for ERC-721            | Standard | Draft    |
