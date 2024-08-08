@@ -23,3 +23,7 @@ Here is the list of subjects of REPs:
 | [REP-0015](REP-0015/REP-0015.md) | Ownership Delegation and Context for ERC-721                        | Standard | Draft    |
 | [REP-0016](REP-0016/REP-0016.md) | Hard fork Ronin chain to upgrade the Axie and Land smart contracts  | Standard | Executed |
 | [REP-0017](REP-0017/REP-0017.md) | Propose New Slashing Rules            			                     | Standard | Approved |
+| [REP-0018](REP-0018/REP-0018.md) | Node Discovery ENR Filtering           		                     | Network  | Approved |
+| [REP-0019](REP-0019/REP-0019.md) | Implement EIP-4844: Shard Blob Transactions on Ronin                | Standard | Approved |
+| [REP-0020](REP-0020/REP-0020.md) | Propose Shanghai EIPs on Ronin            			                 | Standard | Approved |
+| [REP-0021](REP-0021/REP-0021.md) | Propose Cancun EIPs on Ronin            			                 | Standard | Approved |
