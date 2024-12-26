@@ -27,3 +27,6 @@ Here is the list of subjects of REPs:
 | [REP-0019](REP-0019/REP-0019.md) | Implement EIP-4844: Shard Blob Transactions on Ronin                | Standard | Approved |
 | [REP-0020](REP-0020/REP-0020.md) | Propose Shanghai EIPs on Ronin            			                 | Standard | Approved |
 | [REP-0021](REP-0021/REP-0021.md) | Propose Cancun EIPs on Ronin            			                 | Standard | Approved |
+| [REP-0022](REP-0022/REP-0022.md) | Enable base fee on Ronin               			                 | Standard | Approved |
+| [REP-0023](REP-0023/REP-0023.md) | Increase max code size limit to 32KB            	                 | Standard | Approved |
+| [REP-0024](REP-0024/REP-0024.md) | Automatically update staking rewards                                | Standard | Approved |
