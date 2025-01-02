@@ -30,3 +30,4 @@ Here is the list of subjects of REPs:
 | [REP-0022](REP-0022/REP-0022.md) | Enable base fee on Ronin               			                 | Standard | Approved |
 | [REP-0023](REP-0023/REP-0023.md) | Increase max code size limit to 32KB            	                 | Standard | Approved |
 | [REP-0024](REP-0024/REP-0024.md) | Automatically update staking rewards                                | Standard | Approved |
+| [REP-0025](REP-0025/REP-0025.md) | Change the block gas limit to 30,000,000                            | Standard | Draft    |
