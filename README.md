@@ -23,11 +23,11 @@ Here is the list of subjects of REPs:
 | [REP-0015](REP-0015/REP-0015.md) | Ownership Delegation and Context for ERC-721                        | Standard | Draft    |
 | [REP-0016](REP-0016/REP-0016.md) | Hard fork Ronin chain to upgrade the Axie and Land smart contracts  | Standard | Executed |
 | [REP-0017](REP-0017/REP-0017.md) | Propose New Slashing Rules            			                     | Standard | Approved |
-| [REP-0018](REP-0018/REP-0018.md) | Node Discovery ENR Filtering           		                     | Network  | Approved |
-| [REP-0019](REP-0019/REP-0019.md) | Implement EIP-4844: Shard Blob Transactions on Ronin                | Standard | Approved |
-| [REP-0020](REP-0020/REP-0020.md) | Propose Shanghai EIPs on Ronin            			                 | Standard | Approved |
-| [REP-0021](REP-0021/REP-0021.md) | Propose Cancun EIPs on Ronin            			                 | Standard | Approved |
-| [REP-0022](REP-0022/REP-0022.md) | Enable base fee on Ronin               			                 | Standard | Approved |
-| [REP-0023](REP-0023/REP-0023.md) | Increase max code size limit to 32KB            	                 | Standard | Approved |
+| [REP-0018](REP-0018/REP-0018.md) | Node Discovery ENR Filtering           		                     | Network  | Executed |
+| [REP-0019](REP-0019/REP-0019.md) | Implement EIP-4844: Shard Blob Transactions on Ronin                | Standard | Executed |
+| [REP-0020](REP-0020/REP-0020.md) | Propose Shanghai EIPs on Ronin            			                 | Standard | Executed |
+| [REP-0021](REP-0021/REP-0021.md) | Propose Cancun EIPs on Ronin            			                 | Standard | Executed |
+| [REP-0022](REP-0022/REP-0022.md) | Enable base fee on Ronin               			                 | Standard | Executed |
+| [REP-0023](REP-0023/REP-0023.md) | Increase max code size limit to 32KB            	                 | Standard | Executed |
 | [REP-0024](REP-0024/REP-0024.md) | Automatically update staking rewards                                | Standard | Approved |
-| [REP-0025](REP-0025/REP-0025.md) | Change the block gas limit to 30,000,000                            | Standard | Draft    |
+| [REP-0025](REP-0025/REP-0025.md) | Change the block gas limit to 30,000,000                            | Standard | Executed |
