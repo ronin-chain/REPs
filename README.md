@@ -31,3 +31,4 @@ Here is the list of subjects of REPs:
 | [REP-0023](REP-0023/REP-0023.md) | Increase max code size limit to 32KB            	                 | Standard | Executed |
 | [REP-0024](REP-0024/REP-0024.md) | Automatically update staking rewards                                | Standard | Approved |
 | [REP-0025](REP-0025/REP-0025.md) | Change the block gas limit to 30,000,000                            | Standard | Executed |
+| [REP-0026](REP-0026/REP-0026.md) | Propose Pectra EIPs on Ronin                                        | Standard | Draft    |
